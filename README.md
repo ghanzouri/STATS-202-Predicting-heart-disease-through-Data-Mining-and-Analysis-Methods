@@ -9,5 +9,9 @@ The project will consist of :
 
 This data set is derived from the South African Heart data set in Elements of Statistical Learning. Our goal is to predict the binary Status (a simulated response) from the other features, with particular interest in seeing if our new assay is predictive of disease or not.
 
-This project has allowed us to compare different predictive models. We have implemented the following models: Logistic Regression, Random Forest, Boosting, Lasso, Ridge and Support Vector Machine. Our paper showcases that the best predictive model of the variable **Status** is Boosting on Kaggle and LASSO on the followup dataset (more info in the paper).
+This project has allowed us to compare different predictive models. 
+
+We have implemented the following models: Logistic Regression, Random Forest, Boosting, Lasso, Ridge and Support Vector Machine. 
+
+Our paper showcases that the best predictive model of the variable **Status** is Boosting on Kaggle and LASSO on the followup dataset (more info in the paper).
 
